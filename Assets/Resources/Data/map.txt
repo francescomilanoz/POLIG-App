@@ -1,0 +1,43 @@
+[Doors]
+door1= room1,room2
+door2= room2,room3
+door3= room3,room1
+door4= room2,room4
+door5= room4,room5
+
+[Rooms]
+1 = room1,Antichi romani
+2 = room2,Vichinghi
+3 = room3,Egizi
+4 = room4,Fenici
+5 = room5,The Hall
+
+[Degrees]
+room1,door1= 0
+room1,door3= 90
+room2,door1= 227
+room2,door2= 135
+room3,door2= 340
+room3,door3= 270
+room2,door4= 45
+room4,door4= 155
+room4,door5= 270
+room5,door5= 80
+
+[Artworks]
+A1 = Notte Stellata|Van Gogh|1889|Olio Su Tela|72x92 cm|Notte stellata (De sterrennacht) e' un dipinto del pittore olandese Vincent van Gogh, realizzato nel 1889 e conservato al Museum of Modern Art di New York. Vera e propria icona della pittura occidentale, il dipinto raffigura un paesaggio notturno di Saint-Re'my-de-Provence, poco prima del sorgere del sole.|room3|Painting|red
+A2 = Erote dormiente|Arte romana|II sec. d.C.|Marmo di Carrara|cm 32 (altezza), cm 72 (lunghezza)|La Tribuna, sede di capolavori indiscussi della Galleria, accoglie figure di putti addormentati, delicatamente sdraiati su pelli di leone. Sculture del genere erano solitamente impiegate nell’arte romana per ornare tombe infantili.|room4|Sculpture|Gray
+A3 = Nascita di Venere|Sandro Botticelli|1485 c.|Tempera su tela|172,5 x 278,5 cm|Nota come "Nascita di Venere", la composizione raffigura più precisamente l'approdo sull'isola di Cipro della dea dell'amore e della bellezza, nata dalla spuma del mare e sospinta dai venti Zefiro e, forse, Aura. La dea e' in piedi sopra la valva di una conchiglia, pura e perfetta come una perla.|room1|Painting|Gray
+A4 = La Primavera|Sandro Botticelli|1480|Tempera grassa su tavola|207 x 319 cm|Conosciuto con il nome convenzionale di Primavera, la pittura mostra nove figure della mitologia classica che incedono su un prato fiorito, davanti a un bosco di aranci e alloro. In primo piano a destra, Zefiro abbraccia e feconda la ninfa Clori, raffigurata poco oltre nelle sembianze di Flora, dea della fioritura.|room2|Painting|Green
+A5 = La fuga di Enea|Ugo da Carpi|1518|Chiaroscuro xilografico a quattro legni|536 x 387 mm|Per dimensione, impegno tecnico e dichiarata autografia, questa grande stampa, menzionata gia' da Vasari, costituisce una sorta di manifesto con cui Ugo da Carpi rivendicava l’invenzione della nuova tecnica del chiaroscuro xilografico, a imitazione degli effetti del disegno.|room3|Other|red
+A6 = Torso Gaddi|Arte greca|I secolo a. C.|Marmo greco|84 cm (altezza)|Il robusto torso venne acquistato nel 1778 dal Granduca Pietro Leopoldo dalla collezione Gaddi che si trovava a Firenze; nulla si sa dell’opera prima di questa data, ad eccezione della presenza nella suddetta collezione privata.|room3|Sculpture|Gray
+A7 = Il Mulinetto|Salvadori Pietro|1987|Olio Su Tela|72x92 cm|Il Molinetto della Croda, nella valle del Lierza, rappresenta uno dei piu' suggestivi angoli della Marca Trevigiana. Nei suoi quasi quattro secoli di storia ha ispirato artisti e incantato migliaia di visitatori. Caratteristico esempio di architettura rurale del secolo XVII, l'edificio fu costruito a piu' riprese.|room2|Painting|blue
+A8 = La spiaggia|Salvadori Pietro|1987|Olio Su Tela|72x92 cm|Il dipinto ritrae uno spazio esterno. La spiaggia e il mare che si apre fino all'orizzonte. Non e' presente la prospettiva geometrica.|room4|Painting|blue
+A9 = Annunciazione|Sandro Botticelli|1481|Affresco staccato|243 x 555 cm|Il consueto tema dell'annuncio dell'arcangelo Gabriele alla Vergine e' ambientato in un palazzo rinascimentale affacciato su un giardino, chiuso sul fondo dal muro di cinta merlato. Il portico, entro cui avviene l'apparizione dell'arcangelo Gabriele, introduce alla camera di Maria, alle cui spalle si erge l'alto letto ligneo circondato da cassepanche|room4|Painting|blue
+
+
+[WaitInLine]
+L1 = 20|dali|Ai professori universitari che cercavano di interrogare Dali' in storia dell'arte lui rispondeva dicendo: 'Mi ritrovo a dover affermare che nessuno di voi professori e' competente a giudicarmi'
+L2 = 15|heyez|Nato a Venezia, Heyez riceve li' la sua prima formazione artistica grazie allo zio Francesco Binasco, un mercante d'arte ed antiquario genovese che intese il talento del nipote.
+L3 = 10|venere|Un particolare della Nascita di Venere (il volto della dea) e' utilizzato nella moneta euro italiana del valore di dieci centesimi. 
+L4 = 5|urbino|Le radiografie hanno accertato che Piero della Francesca dipinse i personaggi de 'Doppio ritratto dei duchi di Urbino' nudi. Essi vennero poi rivestiti in una seconda fase. 

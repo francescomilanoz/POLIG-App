@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introduction.unity
+    guid: fe313cd164a910a4e813a020104c3b52
+  - enabled: 1
+    path: Assets/Scenes/01waitinline.unity
+    guid: b9407e87326494038a4dacdd083c1f1b
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 51bd3cd646037dc4785c702eb862805a,
+      type: 2}

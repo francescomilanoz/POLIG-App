@@ -1,0 +1,10 @@
+[ActiveUsers]
+A1 = 0
+A2 = 3
+A3 = 3
+A8 = 0
+A7 = 4
+
+[WaitingUsers]
+A1 = 0
+A2 = 3
