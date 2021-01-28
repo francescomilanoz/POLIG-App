@@ -13,55 +13,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-01-27T18:42:35.050+01:00
-  initializedAtString: 2021-01-27T18:42:27.704+01:00
-  localBranches:
-  - name: main
-    tracking: origin/main
+  lastUpdatedAtString: 2021-01-28T07:42:14.629+01:00
+  initializedAtString: 2021-01-28T07:39:50.978+01:00
+  localBranches: []
   remoteBranches:
-  - name: origin/HEAD
-    tracking: '[None]'
   - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/francescomilanoz/ART-AR-for-tourism-new.git
+    url: https://github.com/francescomilanoz/POLIGI-App.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - main
-    values:
-    - name: main
-      remote:
-        name: origin
-        url: https://github.com/francescomilanoz/ART-AR-for-tourism-new.git
-      trackingBranch: main
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
-      - HEAD
       - main
     subKeyValues:
     - Values:
-      - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/francescomilanoz/ART-AR-for-tourism-new.git
-        trackingBranch: 
       - name: main
         remote:
           name: origin
-          url: https://github.com/francescomilanoz/ART-AR-for-tourism-new.git
+          url: https://github.com/francescomilanoz/POLIGI-App.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/francescomilanoz/ART-AR-for-tourism-new.git
+      url: https://github.com/francescomilanoz/POLIGI-App.git

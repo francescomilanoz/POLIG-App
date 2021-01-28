@@ -60,9 +60,11 @@ ScriptsOnlyBuild:
     - WaitingInLineManager
     GitHub.Unity.45.dll:
     - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
     - GitHub.Unity.EnvironmentCache
     - GitHub.Unity.GitAheadBehindCache
     - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
     - GitHub.Unity.GitStatusCache
     - GitHub.Unity.RepositoryInfoCache
     Unity.InputSystem.dll:
@@ -407,9 +409,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14754}
     - Class: 114
-      Script: {instanceID: 15738}
+      Script: {instanceID: 16096}
     - Class: 114
-      Script: {instanceID: 15744}
+      Script: {instanceID: 16100}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1853,4 +1855,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Introduction.unity
   - Assets/Scenes/01waitinline.unity
-  playerPath: C:/Users/franc/Desktop/apk jessica.apk
+  playerPath: C:/Users/franc/Desktop/POLIG App Final.apk
